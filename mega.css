@@ -1,0 +1,83 @@
+a{
+	color:red;
+	font-size:20px;
+}
+#id2{
+	color:#44ff3d;
+	color:rgba(0, 255, 0, 1);
+	font-size:50px;
+}
+#id1{
+	color:green;
+}
+#sasred{
+	color:red;
+	font-size:16px;
+}
+#grfrog{
+	color:green;
+	font-size:16px;
+}
+#idmnepod{
+	color:purple;
+	font-size:20px;
+}
+.human{
+	color:green;
+}
+.oof_human{
+	color:rgb(128, 0, 128);
+}
+.animal{
+	color:red;
+}
+.grfrog{
+	color:lime;
+}
+.message{
+	color:#000000;
+	background-color:#cc0000;
+	border:5px solid #000000;
+	margin-left:500px;
+	margin-right:500px;
+	margin-bottom:5px;
+	padding:2px;
+}
+.gg{
+	color:#000000;
+	background-color:#cc0000;
+	border:5px dashed #000000;
+}
+.message:hover{
+	background-color:green;
+	margin-left:510px;
+	margin-right:510px;
+}
+.alert {
+  padding: 20px;
+  background-color: #f44336;
+  color: black;
+  margin-bottom: 15px;
+}
+.closebtn {
+  margin-left: 15px;
+  color: white;
+  font-weight: bold;
+  float: right;
+  font-size: 22px;
+  line-height: 20px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+.closebtn:hover {
+  color: green;
+}
+.normal{
+	color:black;
+}
+#sasblack{
+	color:black;
+}
+#blyat{
+	color:black;
+}
